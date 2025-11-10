@@ -260,3 +260,17 @@ Note: Minor update for GitHub assignment.
 This project demonstrates Git operations like clone, pull, push, and creating a Pull Request—a hands-on Mini-Finance tool.
 
 
+## Recent Updates
+
+### Dynamic Date Display
+Changed the date from static to dynamic:
+
+**Before:**
+```html
+<p>Mini Finance v1.0 — Deployed on November 9, 2025 - By Ntando Mvubu</p>
+```
+
+**After:**
+```html
+<p>Mini Finance v1.0 — Deployed on <span id ="date"></span> - By Ntando Mvubu</p>
+```
