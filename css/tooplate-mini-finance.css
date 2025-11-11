@@ -961,6 +961,13 @@ strong {
   font-size: var(--copyright-font-size);
 }
 
+.footer-text {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: #333;
+  margin: 5px 0;
+}
+
 
 /*---------------------------------------
   RESPONSIVE STYLES               
